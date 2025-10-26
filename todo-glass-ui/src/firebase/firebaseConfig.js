@@ -24,3 +24,6 @@ const provider = new GoogleAuthProvider();
 console.log("✅ Firebase initialized successfully!");
 
 export { app, auth, provider };
+
+
+
